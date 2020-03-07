@@ -16,7 +16,7 @@ public class DemoApplication {
 
     @RequestMapping("/index")
     public String index(){
-        return "hello world1";
+        return "hello world";
     }
 
 }
